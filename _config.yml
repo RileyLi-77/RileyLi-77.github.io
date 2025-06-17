@@ -41,7 +41,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Xiang(Riley) Li"
+  github           : "RileyLi-77"
   google_plus      :
   keybase          :
   instagram        :
@@ -68,6 +68,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 exclude:
   - docs
   - google_scholar_crawler
@@ -121,12 +122,16 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
 include: ["_pages"]
 # Defaults
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "-pages"
       type: pages
     values:
       layout: single
@@ -151,6 +156,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
