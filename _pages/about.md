@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+
+
 👋 Hello! I'm **Xiang Li**, currently a PhD student in the Department of Bioengineering at Rice University, Houston, TX. I am also a researcher at **Dr. Nicholas Navin Lab** in the Department of Systems Biology at **MD Anderson Cancer Center**. My research focuses on single-cell technologies, cancer biology, and advanced microfluidic platforms for cellular analysis.
 
 I graduated from **Xi'an Jiaotong University (XJTU)** in 2024 with a Bachelor of Science in Chemistry and Biology(Honor program), where I ranked 1st out of 24 students with an overall grade of 87.24/100. I also had the opportunity to study as an exchange student at UC Berkeley in 2023.
