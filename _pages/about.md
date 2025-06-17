@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Xiang Li"
+excerpt: "PhD Student in Bioengineering | Single-cell Technologies & Cancer Biology"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 👋 Hello! I'm **Xiang Li**, currently a PhD student in the Department of Bioengineering at Rice University, Houston, TX. I am also a researcher at **Dr. Nicholas Navin Lab** in the Department of Systems Biology at **MD Anderson Cancer Center**. My research focuses on single-cell technologies, cancer biology, and advanced microfluidic platforms for cellular analysis.
 
