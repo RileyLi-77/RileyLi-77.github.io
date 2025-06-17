@@ -7,7 +7,10 @@
 
 # Site Settings
 title                    : "Xiang (Riley) Li's Academic Homepage"
-description              : "PhD student in Bioengineering at Rice University | Researcher in single-cell technologies, microfluidics, and cancer biology"
+description              : >-
+  PhD Student in Bioengineering at Rice University and researcher at MD Anderson Cancer Center. 
+  Research interests include single-cell technologies, cancer biology, 
+  and microfluidic platforms for advanced cellular analysis.
 repository               : "RileyLi-77/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +26,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiang Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD Student in Bioengineering at Rice University"
-  location         : "Houston, United States"
-  employer         : "Rice University"
+  bio              : "PhD Student in Bioengineering at Rice University | Navin Lab, MD Anderson Cancer Center"
+  location         : "Houston, TX, United States"
+  employer         : "Rice University & MD Anderson Cancer Center"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "xl160@rice.com"
