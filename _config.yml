@@ -120,6 +120,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+include: ["_pages"]
 # Defaults
 defaults:
   # _pages
@@ -127,7 +128,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: default
+      layout: single
       author_profile: true
 
 
