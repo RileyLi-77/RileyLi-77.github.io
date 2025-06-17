@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,59 +8,69 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+👋 Hello! I'm **Xiang Li**, currently a PhD student in the Department of Bioengineering at Rice University, Houston, TX. I am also a researcher at **Dr. Nicholas Navin Lab** in the Department of Systems Biology at **MD Anderson Cancer Center**. My research focuses on single-cell technologies, cancer biology, and advanced microfluidic platforms for cellular analysis.
 
-<span class='anchor' id='about-me'></span>
-
-Hello! I'm **Xiang Li**, currently a PhD student in the Department of Bioengineering at Rice University, Houston, TX.
-Previously, I earned my B.S. in Chemical Biology from Xi’an Jiaotong University (XJTU), where I ranked 1st in my major. I was also an exchange student at the University of California, Berkeley. During my undergraduate years, I led several interdisciplinary research projects and received multiple national awards for innovation and entrepreneurship.
-
+I graduated from **Xi'an Jiaotong University (XJTU)** in 2024 with a Bachelor of Science in Chemistry and Biology(Honor program), where I ranked 1st out of 24 students with an overall grade of 87.24/100. I also had the opportunity to study as an exchange student at UC Berkeley in 2023.
 
 **Research Interests:**
-- 🧬 Genetics & Epigenetics 
-- 🔬 Single cell technologies & Semi-permeable capsule
-- 💻 Computational Biology & Single-cell Analysis
-- 🦠 Cancer biology
+- 🧬 Single-cell Technologies & Analysis
+- 🎯 Cancer Biology & Tumor Heterogeneity  
+- 🔬 Microfluidics & Advanced Cellular Platforms
+- 💻 Computational Biology & Bioinformatics
 - 🧪 Biomedical Engineering Applications
 
+---
 
-# 🔥 News
+## 🔥 News
+
+- **January 2025**: Officially joined the Navin Lab at MD Anderson Cancer Center as a PhD researcher
+- **October 2024**: Completed rotation at Navin Lab, Department of Systems Biology, MD Anderson Cancer Center
+- **September 2024**: Started laboratory rotations at MD Anderson Cancer Center
 - **August 2024**: Started PhD program in Bioengineering at Rice University
 - **June 2024**: Graduated from Xi'an Jiaotong University with highest honors (Rank 1/24)
 - **May 2023**: Completed exchange program at UC Berkeley
-- **November 2022**: Won 2022 iGEM International Gold Award
+- **November 2022**: Won 2022 iGEM International Gold Award as team leader of XJTU
 
-# 📝 Publications 
+---
 
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
+## 🎓 Education
 
 **PhD in Bioengineering** | *Rice University*  
 *August 2024 - Present*  
-Houston, TX, USA
+Houston, TX, USA  
+**Current Research:** Navin Lab, Department of Systems Biology, MD Anderson Cancer Center (January 2025 - Present)
 
 **Exchange Student** | *University of California, Berkeley*  
 *January 2023 - May 2023*  
 GPA: 3.47/4.0  
 Berkeley, CA, USA
+**Core Courses:** Introduction to Quantitative Methods in Biology **A+** (Graduate course), Bacterial Pathogen, Genetics **B+** (Graduate course), Genomics, and Cell Biology **A-**
 
 **Bachelor of Science in Chemical Biology** | *Xi'an Jiaotong University*  
 *September 2020 - June 2024*  
 Overall Grades: 87.24/100, **Ranking: 1/24**  
 Xi'an, China
 
-**Core Courses:** Introduction to Quantitative Methods in Biology, Bacterial Pathogen, Genetics, Genomics, and Cell Biology
+---
 
 ## 🔬 Research Experience
+
+### Current Research at Navin Lab
+**PhD Researcher** | *MD Anderson Cancer Center*  
+*January 2025 - Present*  
+*Department of Systems Biology, Navin Lab*
+
+- Developing innovative single-cell processing platforms for challenging cellular samples
+- Focus on advanced microfluidic technologies and high-throughput cellular analysis
+- Research in single-cell technologies applied to cancer biology
+
+### Laboratory Rotation 
+**Rotating Graduate Student** | *MD Anderson Cancer Center*  
+*September 2024 - October 2024*  
+*Department of Systems Biology, Navin Lab*
+
+- Completed research rotation exploring single-cell technologies and cancer biology applications
+- Gained experience in cutting-edge single-cell analysis methodologies
 
 ### Spatiotemporal Transcriptional Mapping of Salmonella Invasion of Mouse Colon
 **Team Leader and Main Researcher** | *Xi'an Jiaotong University*  
@@ -137,12 +147,16 @@ Xi'an, China
 
 **Bioinformatics Tools:**
 - SnapGene, Cytoscape, Gaussian
+- Single-cell RNA-seq Analysis Pipelines
+- Advanced Data Visualization Tools
 
 **Laboratory Techniques:**
+- Single-cell Technologies & Platforms
+- Microfluidics Design & Fabrication
 - PCR, Plasmid Extraction, Gel Electrophoresis
 - Cell Culture, SDS-PAGE, Gel Purification Recovery
-- Microfluidics Chip Fabrication
 - Single-cell RNA Sequencing Analysis
+- Cancer Cell Biology Techniques
 
 **Languages:**
 - Chinese (Native)
@@ -154,25 +168,32 @@ Xi'an, China
 
 ## 📞 Contact
 
-I'm always interested in collaborating on exciting research projects in cancer biology, single cell technologies, and computational biology. Feel free to reach out!
+I'm always interested in collaborating on exciting research projects in single-cell technologies, cancer biology, and microfluidic platforms. Feel free to reach out!
 
-- 📧 **Email**: xl160@rice.edu
-- 📱 **Phone**: +1 832 3968609
-- 🐙 **GitHub**: [[@yourusername](https://github.com/yourusername)](https://github.com/RileyLi-77)
-- 💼 **LinkedIn**: [Xiang Li](https://linkedin.com/in/xiang-li-bioengineering)
+- 📧 **Email**: xl160@rice.edu / XLi39@mdanderson.org
+- 📱 **Phone**: +1 832 396 8607
+- 🐙 **GitHub**: [[@RileyLi-77](https://github.com/RileyLi-77)
+- 💼 **LinkedIn**: [Xiang Li](https://www.linkedin.com/in/xiang-li-31b053338/)
 
 ---
 
 ## 🌟 Beyond Research
 
-When I'm not in the lab or analyzing data, I enjoy:
+When I'm not in the lab or analyzing single-cell data, I enjoy:
 - 🚣‍♂️ Rowing (former competitive rower with multiple medals)
+- 🏃‍♀️ Work out
 - 🌍 Cultural exchange and international collaboration
-- 📚 Reading about emerging biotechnologies
+- 📚 Reading
 - 🎯 Entrepreneurship and innovation competitions
 
 ---
 
-*Looking forward to contributing to cutting-edge research in bioengineering and making meaningful impacts in human health through innovative technologies.*
+*Looking forward to contributing to cutting-edge research in single-cell technologies and cancer biology, developing innovative platforms that advance our understanding of cellular heterogeneity and tumor biology.*
 
 ---
+
+**Last Updated:** June 2025
+
+---
+
+*If you like this homepage template, please check out [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) by RayeRen.*
